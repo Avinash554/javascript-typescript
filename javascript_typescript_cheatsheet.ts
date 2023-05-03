@@ -61,31 +61,41 @@ Notes:
 
 /**
 Notes:
-  push() :
+  push():
     The push() method adds a new items to the end of an array and return new length of array. 
     The push() method changes the length of an array.
     push(element0, element1, ..... , elementN);
    https://www.w3schools.com/jsref/jsref_push.asp
 ---------------------------------------------------------------------------------
-  pop() :
+  pop():
     The pop() method removes and returns last element of an array.
     The pop() method changes original array.
     The removed item can be 'string', 'number', 'array' or any other type allowed in an array.
     https://www.w3schools.com/jsref/jsref_pop.asp
 ---------------------------------------------------------------------------------
-  filter() :
+  filter():
     The filter() method creates a new array filled with elements that pass the test provided by a function.
     The filter() method does not change the original array.
     If no elements pass the test it returns an empty array.
     filter((currentValue/element, index, array) => { code statments here });
     https://www.w3schools.com/jsref/jsref_filter.asp
 ---------------------------------------------------------------------------------
-  map() :
+  map():
     The map() method creates a new array calling a function for eavery array element.
     The map() method does not change the original array.
     map((currentValue/element, index, array) => {code statments here});
     https://www.w3schools.com/jsref/jsref_map.asp
 ---------------------------------------------------------------------------------
+  Math.min():
+    It finds the minimum of n elements.
+
+  Math.max():
+    It finds the maximum of n elements.
+  ---------------------------------------------------------------------------------
+  Clone an array:
+    ES6 Spread operator: const arr = [1, 2, 3]; const arr1 = [...arr];
+    Array.from();
+  ---------------------------------------------------------------------------------
  */
 
 /***************************** Methods: End *****************************/
