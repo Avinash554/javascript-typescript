@@ -81,19 +81,6 @@ Notes:
  */
 /***************************** Solution 2: End *****************************/
 /** Solution 3: using 'max & min' methods */
-let prices = [7, 1, 5, 3, 6, 4];
-
-var maxProfit = function (prices) {
-    let profit = 0;
-    let priceArr;
-    for (let i = 0; i < prices.length; i++) {
-        const buyPrice = prices[i];
-        priceArr = Math.max(...prices);
-
-    }
-    return profit;
-};
-
 /**
 Notes:
     Other solutions you can work on:
