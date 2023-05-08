@@ -96,6 +96,16 @@ Notes:
     ES6 Spread operator: const arr = [1, 2, 3]; const arr1 = [...arr];
     Array.from();
   ---------------------------------------------------------------------------------
+  Regex pattern:
+    It helps to remove unwanted characters like non-alphanumeric or any other in a string.
+    replace() method allows 2 arguments ---> replace('searchedValue in string: regex', replacementValue);
+    https://linuxhint.com/remove-all-non-alphanumeric-characters-in-javascript/
+  ---------------------------------------------------------------------------------
+  split():
+    split() method allows 2 argumets ---> split('splitter', limit) 
+    It splits string to ordered list of substrings and returns an array.
+    If the splitter doesn't match in a string it returns the original string in an array.
+  ---------------------------------------------------------------------------------
  */
 
 /***************************** Methods: End *****************************/
