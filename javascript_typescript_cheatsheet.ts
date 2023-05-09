@@ -12,6 +12,15 @@ Notes:
     https://linuxize.com/post/how-to-configure-git-username-and-email/
  */
 /***************************** Github: End *****************************/
+/** Data types */
+
+/**
+Notes:
+  String: 
+    String represents sequence of characters in a programming language.
+    We can access the characters in a string using its index.
+ */
+/***************************** Data types: End *****************************/
 /** for loop */
 const myString = "Hello World"; //10 values
 const myArray = [10, 11, 12, 13, 14]; //4 values
@@ -102,9 +111,11 @@ Notes:
     https://linuxhint.com/remove-all-non-alphanumeric-characters-in-javascript/
   ---------------------------------------------------------------------------------
   split():
-    split() method allows 2 argumets ---> split('splitter', limit) 
-    It splits string to ordered list of substrings and returns an array.
+    split() method allows 2 argumets ---> split('splitter/divider', limit) 
+    It splits string to ordered list of substrings and returns an array depending on the 'splitter/divider'.
     If the splitter doesn't match in a string it returns the original string in an array.
+    It does not cahnge the original string
+    https://www.freecodecamp.org/news/javascript-split-how-to-split-a-string-into-an-array-in-js/
   ---------------------------------------------------------------------------------
  */
 
