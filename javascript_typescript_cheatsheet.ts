@@ -114,7 +114,7 @@ Notes:
     split() method allows 2 argumets ---> split('splitter/divider', limit) 
     It splits string to ordered list of substrings and returns an array depending on the 'splitter/divider'.
     If the splitter doesn't match in a string it returns the original string in an array.
-    It does not cahnge the original string
+    It does not change the original string
     https://www.freecodecamp.org/news/javascript-split-how-to-split-a-string-into-an-array-in-js/
   ---------------------------------------------------------------------------------
  */
