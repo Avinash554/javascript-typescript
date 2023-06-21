@@ -100,23 +100,39 @@ Notes:
 
   Math.max():
     It finds the maximum of n elements.
-  ---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
   Clone an array:
     ES6 Spread operator: const arr = [1, 2, 3]; const arr1 = [...arr];
     Array.from();
-  ---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
   Regex pattern:
     It helps to remove unwanted characters like non-alphanumeric or any other in a string.
     replace() method allows 2 arguments ---> replace('searchedValue in string: regex', replacementValue);
     https://linuxhint.com/remove-all-non-alphanumeric-characters-in-javascript/
-  ---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
   split():
     split() method allows 2 argumets ---> split('splitter/divider', limit) 
     It splits string to ordered list of substrings and returns an array depending on the 'splitter/divider'.
     If the splitter doesn't match in a string it returns the original string in an array.
     It does not change the original string
     https://www.freecodecamp.org/news/javascript-split-how-to-split-a-string-into-an-array-in-js/
-  ---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+  reverse():
+    It reverses the order of the elements in an array. 
+    It changes the original array.
+    https://www.w3schools.com/jsref/jsref_reverse.asp
+---------------------------------------------------------------------------------
+  join(): 
+    It return array as a string.
+    It dosen't change the original array.
+    A separator/delimeter can be used, by default it was comma(,)
+    https://www.w3schools.com/jsref/jsref_join.asp
+---------------------------------------------------------------------------------
+    shift():
+    It removes the first element of an array and it changes the original array.
+    It return only the shifted element.
+    https://www.w3schools.com/jsref/jsref_shift.asp
+---------------------------------------------------------------------------------
  */
 
 /***************************** Methods: End *****************************/
@@ -128,6 +144,10 @@ Notes:
   LIFO: Last In First Out --> The last element inserted into the stack/array(push) is first element to removed(pop)
 
   https://www.youtube.com/watch?v=a1fyufVlLmk&ab_channel=Codevolution
+---------------------------------------------------------------------------------
+  Brute force:
+    Brute Force Algorithms are exactly what they sound like – straightforward methods of solving a problem that rely on sheer computing power and trying every possibility rather than advanced techniques to improve efficiency.
+    https://www.freecodecamp.org/news/brute-force-algorithms-explained/
  */
 /***************************** Stack: End *****************************/
 /** Time complexity */
