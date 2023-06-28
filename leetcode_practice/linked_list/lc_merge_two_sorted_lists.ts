@@ -1,4 +1,4 @@
-// Concepts to learn and understand: Linked List
+
 
 
 
@@ -26,6 +26,8 @@ Notes:
     https://leetcode.com/problems/merge-two-sorted-lists/solutions/9963/simple-javascript-solution/
     https://leetcode.com/problems/merge-two-sorted-lists/solutions/238175/10-line-javascript-recursion/
     https://leetcode.com/problems/merge-two-sorted-lists/solutions/1131818/javascript-faster-than-100/
+
+    https://www.freecodecamp.org/news/implementing-a-linked-list-in-javascript
 
  */
 /***************************** Solution 1: End *****************************/

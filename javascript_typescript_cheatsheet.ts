@@ -1,4 +1,4 @@
-// console.log();
+//Youtube channel: Codevolution
 
 
 
@@ -12,6 +12,12 @@ Notes:
     https://linuxize.com/post/how-to-configure-git-username-and-email/
  */
 /***************************** Github: End *****************************/
+/** General content: Start */
+/**
+  Brute force:
+    Brute Force Algorithms are exactly what they sound like – straightforward methods of solving a problem that rely on sheer computing power and trying every possibility rather than advanced techniques to improve efficiency.
+    https://www.freecodecamp.org/news/brute-force-algorithms-explained/ */
+/***************************** General content: End *****************************/
 /** Data types */
 
 /**
@@ -144,12 +150,18 @@ Notes:
   LIFO: Last In First Out --> The last element inserted into the stack/array(push) is first element to removed(pop)
 
   https://www.youtube.com/watch?v=a1fyufVlLmk&ab_channel=Codevolution
----------------------------------------------------------------------------------
-  Brute force:
-    Brute Force Algorithms are exactly what they sound like – straightforward methods of solving a problem that rely on sheer computing power and trying every possibility rather than advanced techniques to improve efficiency.
-    https://www.freecodecamp.org/news/brute-force-algorithms-explained/
  */
 /***************************** Stack: End *****************************/
+/** Data structure: Linked List */
+
+/**
+Notes:
+
+
+  https://www.youtube.com/watch?v=3OsxH-huRc4&ab_channel=Codevolution
+  https://www.youtube.com/watch?v=Tggvw4QlA9U&ab_channel=Codevolution
+ */
+/***************************** Linked List: End *****************************/
 /** Time complexity */
 
 /**
